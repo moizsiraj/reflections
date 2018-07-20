@@ -33,6 +33,12 @@ shows that if we can go back to a commit or not
 
 git checkout -b new_branch_name  # used to create a new branch and add the commit to it if the commit is has detached head
 
+
+
+
+
+made a new branch named copy-2 checking the branch work
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
