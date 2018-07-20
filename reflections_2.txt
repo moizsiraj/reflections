@@ -17,10 +17,21 @@ git reset # clears the staging area
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+diff # compare versions of file in working directory and staging area
+diff # --staged compares the most recent commit to the staged area
+diff id1 id2 # compares two commits
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+git bracnch # gives the names of current branches
+git branch //name// # creates branch of the name
+git checkout //branch name
+
 How do the diagrams help you visualize the branch structure?
+shows that if we can go back to a commit or not
+
+git checkout -b new_branch_name  # used to create a new branch and add the commit to it if the commit is has detached head
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
