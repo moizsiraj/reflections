@@ -22,6 +22,12 @@ organized? How would branches help?
 
 How do the diagrams help you visualize the branch structure?
 
+
+
+
+
+made a new branch named copy-2 checking the branch work
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
